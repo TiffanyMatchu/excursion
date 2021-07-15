@@ -3,8 +3,15 @@ body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-h1{
+.header--main{
     color: #fff;
+    font-weight: normal;
+    font-size: 50px;
+}
+.link--cta{
+    font-weight: normal;
+    color: aquamarine;
+    font-size: 16px;
 }
 h3{
     color: #fff;
